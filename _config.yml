@@ -1,0 +1,28 @@
+name: PlayMobielDJ
+favicon: null
+layout_spectrum: 0.31689667352475226
+typography_spectrum: 0.7615250574890524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3503690992947668
+  lightness: 0.286811611847952
+  saturation: 0.8708307817578316
+  rhythmicContrast: 0.5572313831653446
+purpose: []
