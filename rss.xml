@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PlayMobielDJ]]></title>
         <description><![CDATA[PlayMobielDJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/playmobieldj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:23:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 10:37:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/playmobieldj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobiele DJ Booth]]></title>
+            <description><![CDATA[<article><h1>Mobiele DJ Booth</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0be9a644d65c884ce63b645a6c60ba700f730a97.jpg"></article>]]></description>
+            <link>https://thegrid.ai/playmobieldj/mobiele-dj-booth/index.html</link>
+            <guid isPermaLink="false">e3d43b56-dd75-42fc-951c-6d50a6a178e9</guid>
+            <pubDate>Wed, 17 Feb 2016 10:37:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wat als de DJ naar jou toe komt?]]></title>
             <description><![CDATA[<article><h1>Wat als de DJ naar jou toe komt?</h1><p>Ontdek de revolutie in DJ-en</p></article>]]></description>
-            <link>undefinedwat-als-de-dj-naar-jou-toe-komt/index.html</link>
+            <link>https://thegrid.ai/playmobieldj/wat-als-de-dj-naar-jou-toe-komt/index.html</link>
             <guid isPermaLink="false">a8a26741-fbdd-419b-87fe-f767e63f214f</guid>
             <pubDate>Tue, 22 Dec 2015 11:23:12 GMT</pubDate>
         </item>
